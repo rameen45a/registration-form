@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia;
+}
+body{
+    background-color: rgb(148, 198, 247);
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+}
+.first{
+    margin-left: 40px;
+}
+.first-Name input{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    width: 700px;
+    margin-left: 40px;
+    padding-bottom: 7px;
+}
+.middle{
+    margin-left: 40px;
+}
+.middle-Name input{
+
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    width: 700px;
+    margin-left: 40px;
+    padding-bottom: 7px;
+}
+.last{
+    margin-left: 40px;
+}
+.Last-Name input{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    width: 700px;
+    margin-left: 40px;
+    padding-bottom: 7px;
+}
+.selection{
+    margin-left: 40px;
+}
+#course{
+    width: 60px;
+}
+.gender{
+    margin-left: 40px;
+}
+.selected{
+    margin-left: 40px;
+}
+.phone{
+    margin-left: 40px;
+}
+.phone-no input{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-top: 7px;
+    width: 700px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+p{
+    margin-left: 40px;
+}
+.textarea2 textarea{
+    padding-top: 15px;
+    border-radius: 5px;
+    margin-left: 40px;
+    width: 700px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+.email{
+    margin-left: 10px;
+    font-size: large;
+    margin-left: 50px;
+}
+.email-fields input{
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 700px;
+    margin-top: 10px;
+    padding-bottom: 7px;
+}
+.passwords{
+    margin-left: 53px;
+}
+.passwords-fields input{
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 700px;
+    margin-top: 10px;
+    padding-bottom: 7px;
+}
+.retype-password{
+    margin-left: 53px;
+}
+
+.Re-passwords-fields input{
+    padding-top: 5px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: 700px;
+    margin-top: 10px;
+    padding-bottom: 7px;
+}
+:placeholder-shown{
+    font-size: larger;
+}
+.img-btn{
+    margin-left: 310px;
+   
+}
+.cl-btn{
+    font-size: large;
+    background-color:green;
+    color: white;
+    padding: 15px 40px 10px 30px;
+}
